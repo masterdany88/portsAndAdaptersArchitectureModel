@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>pl.korbeldaniel.erp2</groupId>
+    <artifactId>erp2</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>common/pojo</module>
+        <module>common/util</module>
+        <module>data/dataPort</module>
+        <module>data/dataAdapter</module>
+        <module>logic/logicPort</module>
+        <module>logic/logicAdapter</module>
+        <module>access</module>
+        <module>integrationTest</module>
+    </modules>
+
+    <properties>
+        <encoding>UTF-8</encoding>
+
+    </properties>
+
+</project>

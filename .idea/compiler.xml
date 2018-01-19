@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="accessAdapter" />
+        <module name="accessPort" />
+        <module name="clientAdapter" />
+        <module name="clientPort" />
+        <module name="common.pojo" />
+        <module name="common.util" />
+        <module name="dataAdapter" />
+        <module name="dataPort" />
+        <module name="integrationTest" />
+        <module name="logicAdapter" />
+        <module name="logicPort" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="access" target="1.5" />
+      <module name="accessAdapter" target="1.5" />
+      <module name="accessPort" target="1.5" />
+      <module name="client" target="1.5" />
+      <module name="clientAdapter" target="1.5" />
+      <module name="clientPort" target="1.5" />
+      <module name="common.pojo" target="1.5" />
+      <module name="common.util" target="1.5" />
+      <module name="dataAdapter" target="1.5" />
+      <module name="dataPort" target="1.5" />
+      <module name="erp2" target="1.5" />
+      <module name="integrationTest" target="1.5" />
+      <module name="logicAdapter" target="1.5" />
+      <module name="logicPort" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

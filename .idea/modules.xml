@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/access/access.iml" filepath="$PROJECT_DIR$/access/access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access/accessAdapter/accessAdapter.iml" filepath="$PROJECT_DIR$/access/accessAdapter/accessAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access/accessPort/accessPort.iml" filepath="$PROJECT_DIR$/access/accessPort/accessPort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/pojo/common.pojo.iml" filepath="$PROJECT_DIR$/common/pojo/common.pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/util/common.util.iml" filepath="$PROJECT_DIR$/common/util/common.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/dataAdapter/dataAdapter.iml" filepath="$PROJECT_DIR$/data/dataAdapter/dataAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/dataPort/dataPort.iml" filepath="$PROJECT_DIR$/data/dataPort/dataPort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp2.iml" filepath="$PROJECT_DIR$/erp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrationTest/integrationTest.iml" filepath="$PROJECT_DIR$/integrationTest/integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logic/logicAdapter/logicAdapter.iml" filepath="$PROJECT_DIR$/logic/logicAdapter/logicAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logic/logicPort/logicPort.iml" filepath="$PROJECT_DIR$/logic/logicPort/logicPort.iml" />
+    </modules>
+  </component>
+</project>
